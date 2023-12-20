@@ -1,5 +1,11 @@
 # @sdg9/module-c
 
+## 0.1.3
+
+### Patch Changes
+
+- c92d49c: add (3) to module C
+
 ## 0.1.2
 
 ### Patch Changes
