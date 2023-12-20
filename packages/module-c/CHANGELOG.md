@@ -1,5 +1,13 @@
 # @sdg9/module-c
 
+## 0.1.4
+
+### Patch Changes
+
+- c657409: update module C with (5)th change
+- Updated dependencies [d14bf56]
+  - @sdg9/module-b@0.1.3
+
 ## 0.1.3
 
 ### Patch Changes

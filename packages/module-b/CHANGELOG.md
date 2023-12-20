@@ -1,5 +1,11 @@
 # @sdg9/module-b
 
+## 0.1.3
+
+### Patch Changes
+
+- d14bf56: a (4)th change, targeting B
+
 ## 0.1.2
 
 ### Patch Changes
