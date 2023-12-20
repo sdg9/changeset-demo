@@ -1,0 +1,8 @@
+{
+  "name": "@sdg9/module-b",
+  "version": "0.1.0",
+  "main": "index.tsx",
+  "dependencies": {
+    "@sdg9/module-a": "0.1.0"
+  }
+}
