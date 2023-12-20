@@ -5,7 +5,7 @@ const version = require("./package.json").version;
 export default function Module() {
   return (
     <div style={{ paddingLeft: 10 }}>
-      <p>- Module C v{version} (3)</p>
+      <p>- Module C v{version} (5)</p>
       <ModuleA />
       <ModuleB />
     </div>
