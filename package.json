@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@changesets/cli": "^2.27.1",
     "@sdg9/module-a": "0.1.0",
+    "init": "^0.1.2",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
